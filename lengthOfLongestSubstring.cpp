@@ -36,7 +36,7 @@ int lengthOfLongestSubstring(string s)
 
 int main()
 {
-    string str="dfjasklfjwerwuejio";
+    string str="d34234dfxvcx5ejio";
     cout<< lengthOfLongestSubstring(str)<<endl;
     return 0;
 }
